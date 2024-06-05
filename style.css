@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    margin-top: 5px;
+}
+.navrap ol{
+    margin-top: 0.5vh;
+    margin-left: 36cm;
+    list-style-type: none;
+}
+
+.navrap img{
+    height: 3.5vh;
+}
+
+
+
+
+
+
+
+
+
+
+/* main page */
+.main{
+    width: 100%;
+    /* border: 2px solid black; */
+}
+.mainrap img{
+    margin-top: 3cm;
+    /* border: 2px solid red; */
+    margin-left: 40% !important;
+    height: 13vh !important;
+}
+input{
+    border-color: rgba(0, 0, 0, 0.25);
+    height: 5.5vh !important;
+    border-radius: 50px;
+    width: 42%;
+    margin-top: 2% !important;
+    /* margin: auto !important; */
+    margin-left: 29% !important;
+}
+.image a{
+    margin-left: 10% !important;
+    /* text-align: center !important; */
+}
+.image{
+    margin-top: 20px !important;
+}
+.googleoffer{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+.main2{
+    padding-top: 5.5cm;
+    margin-left: 1cm;
+}
+.main3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* grid-column-gap: -80cm; */
+}
+.main3 h5{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 10px;
+    /* display: grid; */
+    /* grid-template-columns: auto auto auto auto auto auto; */
+}
+#text{
+    margin-left: 40px;
+}
